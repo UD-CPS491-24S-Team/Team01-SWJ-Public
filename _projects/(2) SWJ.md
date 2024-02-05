@@ -1,7 +1,7 @@
 ---
 name: The Society of Women Journalists
 tools: [Django, Python, PostgreSQL]
-image: /images/swj.png
+image: /Team01-SWJ-Public/images/swj.png
 description: Django web application for sharing information on the Society of Women Journalists.
 ---
 
@@ -13,7 +13,7 @@ This is project has been ongoing for Capstone groups before us, and our goal is 
 
 As is described on the current SWJ website, the project's purpose include:
 
-![about](/images/swj-about.png)
+![about](/Team01-SWJ-Public/images/swj-about.png)
 
 ## Sprint 1
 

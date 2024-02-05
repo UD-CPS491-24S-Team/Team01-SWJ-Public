@@ -1,7 +1,7 @@
 ---
 name: The Messenger Application
 tools: [Javascript, ExpressJS, NodeJS, MongoDB]
-image: /images/messenger-app.png
+image: /Team01-SWJ-Public/images/messenger-app.png
 description: Multi-page web application for messaging implemented with the MESN Javascript framework.
 ---
 
@@ -31,13 +31,13 @@ Sprint 1 features:
 <div class="container">
     <div class="row">
         <div class="col">
-            <img src="/images/msgr-sprint1-before.png" alt="Sprint 1 Before" width="45%">
+            <img src="/Team01-SWJ-Public/images/msgr-sprint1-before.png" alt="Sprint 1 Before" width="45%">
             <p class="text-center"><b>Beginning of Sprint 1</b><br>
             Basic HTML layout.</p>
         </div>
 
         <div class="col">
-            <img src="/images/msgr-sprint1-after.png" alt="Sprint 1 After" width="55%">
+            <img src="/Team01-SWJ-Public/images/msgr-sprint1-after.png" alt="Sprint 1 After" width="55%">
             <p class="text-center"><b>End of Sprint 1</b><br>
             Fully functional and styled with Bootstrap and CSS.</p>
         </div>
@@ -59,14 +59,14 @@ Sprint 2 Features:
 
 <div class="container">
     <div class="row">
-        <img src="/images/msgr-sprint2-before.png" alt="Sprint 2 Before" width="80%">
+        <img src="/Team01-SWJ-Public/images/msgr-sprint2-before.png" alt="Sprint 2 Before" width="80%">
     </div>
 
     <p class="text-center"><b>Beginning of Sprint 2</b><br>
     A user could log into the site, but had no messaging capabilities. Basic landing page.</p>
 
     <div class="row">
-        <img src="/images/msgr-sprint2-after.png" alt="Sprint 2 After" width="80%">
+        <img src="/Team01-SWJ-Public/images/msgr-sprint2-after.png" alt="Sprint 2 After" width="80%">
     </div>
 
     <p class="text-center"><b>End of Sprint 2</b><br>

@@ -31,7 +31,7 @@ For our Capstone II project, we are working on the Society of Women Journalists 
         </div>
 
         <div class="col">
-            <img src="/images/sadie.png" alt="Sadie Kuprionis" width="50%">
+            <img src="/Team01-SWJ-Public/images/sadie.png" alt="Sadie Kuprionis" width="50%">
             <p class="text-center" style="width:50%; margin-left:25%;"><b>Sadie Kuprionis</b><br>
             Plans to work at Keybank as a Rotational Analyst after graduation.</p>
         </div>
