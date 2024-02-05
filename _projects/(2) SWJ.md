@@ -13,8 +13,6 @@ This is project has been ongoing for Capstone groups before us, and our goal is 
 
 As is described on the current SWJ website, the project's purpose include:
 
-![about](/Team01-SWJ-Public/images/swj-about.png)
-
 <div class="container">
     <div class="row">
         <img src="/Team01-SWJ-Public/images/swj-about.png" alt="SWJ About" width="80%">
