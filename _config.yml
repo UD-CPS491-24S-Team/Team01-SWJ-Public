@@ -3,8 +3,8 @@ title: Team01
 description: >-
   Welcome to our site for Capstone
   I and II, 2023-2024.
-baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository: sadiekup/sadiekup.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl: "Team01-SWJ-Public" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository: ud-cps491-24s-team/ud-cps491-24s-team.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: YoussefRaafatNasry/portfolYOU
 open_new_tab: false # Opens external URLs in new tab (works for posts, projects and navbar only)
 
