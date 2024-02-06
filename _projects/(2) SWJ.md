@@ -11,7 +11,7 @@ The Society of Women Writers and Journalists is a British learned society for pr
 
 This is project has been ongoing for Capstone groups before us, and our goal is to redesign and complete the application.
 
-As is described on the current SWJ website, the project's purpose include:
+As is described on the current SWJ website, the project's purpose includes:
 
 <div class="container">
     <div class="row">

@@ -45,9 +45,9 @@ For our Capstone II project, we are working on the Society of Women Journalists 
         </div>
 
         <div class="col">
-            <img src="https://cdn.justjaredjr.com/wp-content/uploads/headlines/2018/03/team-10-tour-date-announcement.jpg" alt="Angela Wise" width="50%">
-            <p class="text-center"><b>Angela Wise</b><br>
-            Plans to work after graduation.</p>
+            <img src="/Team01-SWJ-Public/images/angela.png" alt="Angela Wise" width="50%">
+            <p class="text-center" style="width:50%; margin-left:25%;"><b>Angela Wise</b><br>
+            Plans to pursue a job in software development after graduation.</p>
         </div>
     </div>
 
