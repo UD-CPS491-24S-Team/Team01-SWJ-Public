@@ -25,9 +25,9 @@ For our Capstone II project, we are working on the Society of Women Journalists 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img src="https://cdn.justjaredjr.com/wp-content/uploads/headlines/2018/03/team-10-tour-date-announcement.jpg" alt="Beecher Dunne" width="50%">
+            <img src="/Team01-SWJ-Public/images/beecher.png" alt="Beecher Dunne" width="50%">
             <p class="text-center"><b>Beecher Dunne</b><br>
-            Plans to work after graduation.</p>
+            Plans to work at The Walsh Group as a software developer after graduation.</p>
         </div>
 
         <div class="col">
