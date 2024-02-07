@@ -26,7 +26,7 @@ For our Capstone II project, we are working on the Society of Women Journalists 
     <div class="row justify-content-center">
         <div class="col">
             <img src="/Team01-SWJ-Public/images/beecher.jpg" alt="Beecher Dunne" width="50%">
-            <p class="text-center"><b>Beecher Dunne</b><br>
+            <p class="text-center" style="width:50%; margin-left:25%;"><b>Beecher Dunne</b><br>
             Plans to work at The Walsh Group as a software developer after graduation.</p>
         </div>
 
