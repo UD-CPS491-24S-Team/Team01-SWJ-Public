@@ -7,9 +7,12 @@ description: Django web application for sharing information on the Society of Wo
 
 # The Society of Women Journalists Website
 
-[[TOC]]
+## Table of Contents
+1. [Overview](#overview)
+2. [Sprint 1](#sprint-1)
+3. [Sprint 2](#sprint-2)
 
-## Description
+## Overview
 
 The Society of Women Writers and Journalists is a British learned society for professional women writers founded in 1894. Dr. Laura Vorachek, and English Professor at the University of Dayton, desires a web application to organize and share the information that she has researched about the society from primary materials.
 
