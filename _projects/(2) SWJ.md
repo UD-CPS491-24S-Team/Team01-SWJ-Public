@@ -8,6 +8,7 @@ description: Django web application for sharing information on the Society of Wo
 # The Society of Women Journalists Website
 
 ## Table of Contents
+
 1. [Overview](#overview)
 2. [Sprint 1](#sprint-1)
 3. [Sprint 2](#sprint-2)
@@ -56,11 +57,15 @@ In Sprint 1, we focused on getting acquainted with the application and completin
 _2/14/2024 to Present_
 
 - Advanced Search
-- Aesthetics 
-- Data analytics 
+- Aesthetics
+- Data analytics
 - Honorary Members (filters)
 - Secure admin side
 - Import/Export
+
+<p class="text-center">
+{% include elements/button.html link="https://docs.google.com/presentation/d/1cZbe8YgmGbh2qDJjJX4EqZuG9xk95C0z7x1Dtb8VtC8/edit?usp=sharing" text="Milestone 2 Presentation" %}
+</p>
 
 <p class="text-center">
 {% include elements/button.html link="https://www.swj1894.org/" text="Visit the SWJ Site" %}
