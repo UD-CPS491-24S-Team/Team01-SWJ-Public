@@ -54,10 +54,10 @@ In Sprint 1, we focused on getting acquainted with the application and completin
 
 ## Sprint 2
 
-_2/14/2024 to Present_
+_2/14/2024 to 3/13/2024_
 
-- Advanced Search
-- Aesthetics
+- Begin Advanced Search
+- Finalize Aesthetics Plan
 - Data analytics
 - Honorary Members (filters)
 - Secure admin side
@@ -65,6 +65,18 @@ _2/14/2024 to Present_
 
 <p class="text-center">
 {% include elements/button.html link="https://docs.google.com/presentation/d/1cZbe8YgmGbh2qDJjJX4EqZuG9xk95C0z7x1Dtb8VtC8/edit?usp=sharing" text="Milestone 2 Presentation" %}
+</p>
+
+## Sprint 3
+
+_3/13/2024 to 4/10/2024_
+
+- Finish Aesthetics
+- Finish Data analytics
+- Add advanced search functionality
+
+<p class="text-center">
+{% include elements/button.html link="https://docs.google.com/presentation/d/1wy-521T7Lvqmq4tuTkfRE6-Ttu-G0Xh_dKNM562meLQ/edit?usp=sharing" text="Fianl Presentation" %}
 </p>
 
 <p class="text-center">
