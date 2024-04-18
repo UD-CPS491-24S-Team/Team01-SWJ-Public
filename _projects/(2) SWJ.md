@@ -93,12 +93,12 @@ These features included:
 
 - Begin Advanced Search
 - Finalize Aesthetics Plan
-- Implement data analytics <sup>1</sup>
-- Add Honorary Members<sup>2</sup>
+- Add Honorary Members <sup>1</sup>
+- Implement data analytics <sup>2</sup>
 - Secure admin side
 - Import/Export
 
-<sup>1</sup>Added a new page listing honorary members.
+[1] Added a new page listing honorary members.
 <div class="container">
     <div class="row">
         <img src="/Team01-SWJ-Public/images/honorary.png" alt="SWJ Honorary Members" width="80%">
@@ -111,7 +111,7 @@ These features included:
     </div>
 </div>
 
-<sup>2</sup>Connected the SWK site to Google Analytics.
+[2] Connected the SWJ site to Google Analytics.
 <div class="container">
     <div class="row">
         <img src="/Team01-SWJ-Public/images/analytics.png" alt="SWJ Analytics" width="80%">
