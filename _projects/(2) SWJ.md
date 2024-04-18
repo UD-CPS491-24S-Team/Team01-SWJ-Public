@@ -22,7 +22,7 @@ Our sponsor, Dr. Laura Vorachek is an English Professor at the University of Day
 
 This is project has been ongoing for Capstone groups before us, and our goal is to redesign and complete the application. 
 
-## The Project's Development Timeline
+### The Project's Development Timeline
 
 <div class="container">
     <div class="row">
